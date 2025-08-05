@@ -18,8 +18,8 @@
 		"hateHello": "Be careful in your actions. We have known your evil nature for a long time",
 		"tradeRequest": "We both stand to gain from this.",
 
-		"outerColor": [64, 104, 138],
-		"innerColor": [33, 56, 179],
+		"outerColor": [33, 36, 179],
+		"innerColor": [64, 104, 138],
 		"style": "",
 		"uniqueName": "Unity",
 		"uniques": [
