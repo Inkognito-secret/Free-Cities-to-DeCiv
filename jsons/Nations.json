@@ -16,6 +16,8 @@
 		"introduction": "We knew that we weren't the only ones who had survived this nightmare. Welcome to the Free Cities.",
 		"neutralHello": "Welcome.",
 		"hateHello": "Be careful in your actions. We have known your evil nature for a long time",
+		"denounced": "You are a danger to us!",
+		"declaringFriendship": "Together we are strong
 		"tradeRequest": "We both stand to gain from this.",
 
 		"outerColor": [33, 36, 179],
