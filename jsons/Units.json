@@ -19,7 +19,7 @@
 	{
 		"name": "Traveling ambassador",
 		"unitType": "Scout",
-		"uniqueTo": "Free Cites",
+		"uniqueTo": "Free Cities",
 		"replaces": "Civilian Convoy",
 		"movement": 3,
 		"strength": 12,
