@@ -1,6 +1,6 @@
 All the following are from [the Noun Project](https://thenounproject.com) licenced under either Creative Commons or Public Domain
 
-Sprites are based on sprites from https://github.com/SpacedOutChicken/Deciv-2 under the author's https://github.com/SpacedOutChicken
+Sprites are based on from https://github.com/SpacedOutChicken/Deciv-2 under the author's https://github.com/SpacedOutChicken
 
 The following is from [freesound] (https://freesound.org) licensed under the Creative Commons 0 License. 
 
